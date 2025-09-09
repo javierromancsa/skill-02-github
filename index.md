@@ -15,7 +15,7 @@ I architect cloud-native systems that solve complex problems—from modernizing 
 - GitHub Actions, CI/CD pipelines
 
 ### 🌮 Fun Fact
-I once built a cloud-native app that predicted taco truck locations in San Antonio using weather data and social media trends. It wasn’t just useful—it was delicious.
+I once built a cloud-native app that predicted breakfast tacos locations in San Antonio using weather data and social media trends. It wasn’t just useful—it was delicious.
 
 ---
 
